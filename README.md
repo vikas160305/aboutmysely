@@ -1,0 +1,8 @@
+Student Information
+	Full Name: g vikas
+	USN: 1VI23CD014
+	Semester: 5
+	Section: A
+	Branch: CSE(DS)
+	Year of Admission: 20235-2026
+	College Name: VIT
